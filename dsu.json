@@ -2,14 +2,14 @@
     "images":[
       {
          "name":"Stock OOS 11.05 ",
-         "os_version":"11",
+         "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"stock, oxygn",
          "uri":"file:///storage/emulated/0/dsu.tar.gz"
       },
       {
          "name":"Paralloid ",
-         "os_version":"11",
+         "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Paralloid，unencrypted",
          "uri":"https://mnet-repo.github.io/prootfs.gz"
