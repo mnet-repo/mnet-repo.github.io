@@ -1,0 +1,33 @@
+{
+    "images":[
+      {
+         "name":"Stock OxygenOS 11.05 ",
+         "os_version":"11",
+         "cpu_abi": "arm64-v8a",
+         "details":"Stock OOS April 22 Patch",
+         "uri":"file:///storage/emulated/0/dsu.tar.gz"
+      },
+      {
+         "name":"BlissOS",
+         "os_version":"12",
+         "cpu_abi": "arm64-v8a",
+         "details":"Bliss OS",
+         "uri":"file:///storage/emulated/0/bliss.gz"
+      },
+      {
+         "name":"AOSP 13 Nippon"
+         "os_version":"13",
+         "cpu_abi": "arm64-v8a",
+         "details":"",
+         "uri":"file:///storage/emulated/0/tiramisu.gz"
+      }
+      {
+         "name":"Paralloid"
+         "os_version":"11",
+         "cpu_abi": "arm64-v8a",
+         "details":"Fuck it",
+         "uri":"https://github.com/mnet-repo/dotfiles/blob/0cc12136c871c19cfea5a6f5608ea2bb5725491d/prootfs.gz"
+      }
+   ]
+}
+
