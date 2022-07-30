@@ -6,7 +6,7 @@
          "cpu_abi": "arm64-v8a",
          "details":"BlazeOS",
          "vndk":[
-            32,
+            32
          ],
          "pubkey":"",
          "tos": "",
