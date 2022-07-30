@@ -1,11 +1,11 @@
 {
     "images":[
       {
-         "name":"Miui 本地包 ",
-         "os_version":"12",
+         "name":"Corvus ",
+         "os_version":"12l",
          "cpu_abi": "arm64-v8a",
-         "details":"安装/sdcard/dsu.zip，请提前准备好文件",
-         "uri":"file:///storage/emulated/0/dsu.zip"
+         "details":"/sdcard/corvus.img，",
+         "uri":"file:///storage/emulated/0/corvus.img"
       },
       {
          "name":"Miui 在线包 ",
