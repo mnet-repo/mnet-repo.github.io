@@ -1,24 +1,24 @@
 {
     "images":[
       {
-         "name":"CorvusOS",
+         "name":"Miui 本地包 ",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"",
-         "uri":"file:///data/media/0/corvus.gz"
+         "details":"安装/sdcard/dsu.zip，请提前准备好文件",
+         "uri":"file:///storage/emulated/0/dsu.zip"
       },
       {
-         "name":"blaze"
+         "name":"Miui 在线包 ",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"ricedroid"
-         "uri":"https://cfhcable.dl.sourceforge.net/project/sgsi137/Generic/BlazeOS/BlazeOS-1.3-12-r5x-KCQNVCD9MB/BlazeOS-1.3-AB-12.1-20220717-r5x-SGSI137.img.gz"
+         "details":"将从网络下载安装包3GB，请注意流量消耗",
+         "uri":"https://service-5pbou4lr-1257232761.sh.apigw.tencentcs.com/release/Ali/dsu.zip"
       },
       {
-         "name":"evo",
-         "os_version":"12",
+         "name":"Android 11本地包 ",
+         "os_version":"11",
          "cpu_abi": "arm64-v8a",
-         "details":"",
+         "details":"安装/sdcard/dsu.zip，请提前准备好文件",
          "uri":"file:///storage/emulated/0/dsu.zip"
       }
    ]
