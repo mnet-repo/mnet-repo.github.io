@@ -9,8 +9,8 @@
             32
          ],
          "pubkey":"",
-         "tos": "",
-         "uri":"https://mor1.androidfilehost.com/dl/Ax-4FlvqKwxxCGPYBabK5Q/1659276882/15664248565197195012/blaze.zip?"
+         "tos":"",
+         "uri":"file:///storage/emulated/0/blaze.zip?"
       },
       {
          "name":"GSI+GMS ARM64",
