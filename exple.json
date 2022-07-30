@@ -1,18 +1,19 @@
 {
+
     "images":[
       {
-         "name":"Corvus ",
-         "os_version":"12l",
-         "cpu_abi": "arm64-v8a",
-         "details":"/sdcard/corvus.img，",
-         "uri":"file:///storage/emulated/0/corvus.img"
-      },
-      {
-         "name":"BlazeOS ",
+         "name":"Miui 本地包 ",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"BlazeOS，GSI",
-         "uri":"https://doc-0o-8k-docs.googleusercontent.com/docs/securesc/2m0cf1uumogpvrgk3bdbejmem0uq5opj/muk5t5nkil9p20uk244h08fi3iasauq2/1659186600000/10821985151829276055/04543829409394774930Z/1DFyxO1frNZz9BMeS_1F3A93v6xAdofqG?e=download&uuid=bb13ba2f-0903-4c66-941a-6c09bff57a5b&nonce=qc2nf6ck08s2u&user=04543829409394774930Z&hash=c4ofopbjg3ng55dl6mkjs1pfgst5b6nf"
+         "details":"安装/sdcard/dsu.zip，请提前准备好文件",
+         "uri":"file:///storage/emulated/0/dsu.zip"
+      },
+      {
+         "name":"Miui 在线包 ",
+         "os_version":"12",
+         "cpu_abi": "arm64-v8a",
+         "details":"将从网络下载安装包3GB，请注意流量消耗",
+         "uri":"https://service-5pbou4lr-1257232761.sh.apigw.tencentcs.com/release/Ali/dsu.zip"
       },
       {
          "name":"Android 11本地包 ",
@@ -22,6 +23,4 @@
          "uri":"file:///storage/emulated/0/dsu.zip"
       }
    ]
-
-
 }
