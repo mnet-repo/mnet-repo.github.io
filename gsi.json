@@ -2,19 +2,18 @@
 {
     "images":[
       {
-         "name":"evo ",
+         "name":"corvus",
          "os_version":"12L",
          "cpu_abi": "arm64-v8a",
-         "details":"evo zip",
-         "uri":"file:///storage/emulated/0/dsu.zip"
+         "details":"Corvus",
+         "uri":"file:///storage/emulated/0/corvus.img"
       },
       {
-         "name":"BlazeOS",
-         "os_version":"12",
+         "name":"BlazeOS GSI",
+         "os_version":"12l",
          "cpu_abi": "arm64-v8a",
-         "details":"Blaze OS",
-         "uri":"https://versaweb.dl.sourceforge.net/project/sgsi137/Generic/BlazeOS/BlazeOS-1.3-12-r5x-KCQNVCD9MB/BlazeOS-1.3-AB-12.1-20220717-r5x-SGSI137.img.gz"
-      },
+         "details":"BlazeOS",
+         "uri":"https://drive.google.com/file/d/1DFyxO1frNZz9BMeS_1F3A93v6xAdofqG/view?usp=drivesdk"
       {
          "name":"cherish",
          "os_version":"12",
