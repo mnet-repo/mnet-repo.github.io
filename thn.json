@@ -2,10 +2,10 @@
     "images":[
       {
          "name":"Cherish 3.9.5 ",
-         "os_version":"12",
+         "os_version":"12L",
          "cpu_abi": "arm64-v8a",
-         "details":"sdcard/system.gz",
-         "uri":"file:///storage/emulated/0/system.img"
+         "details":"",
+         "uri":"file:///storage/emulated/0/cherish.gz"
       },
       {
          "name":"Miui 在线包 ",
