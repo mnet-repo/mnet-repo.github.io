@@ -4,8 +4,8 @@
          "name":"Cherish 3.9.5 ",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
-         "details":"sdcard/system.gz,",
-         "uri":"file:///storage/emulated/0/system.gz"
+         "details":"sdcard/system.gz",
+         "uri":"file:///storage/emulated/0/system.img"
       },
       {
          "name":"Miui 在线包 ",
