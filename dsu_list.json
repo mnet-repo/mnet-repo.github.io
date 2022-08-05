@@ -12,7 +12,7 @@
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Download",
-         "uri":"https://drive.google.com/uc?export=download&id=1pU561aXq02jLRK14BZE4VyKjHXAUa7xY"
+         "uri":"https://www.googleapis.com/drive/v3/files/1pU561aXq02jLRK14BZE4VyKjHXAUa7xY?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
       },
       {
          "name":"AOSP-SouravBappaBeta1 ",
