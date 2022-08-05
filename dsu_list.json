@@ -15,8 +15,14 @@
          "uri":"https://service-5pbou4lr-1257232761.sh.apigw.tencentcs.com/release/Ali/dsu.zip"
       },
       {
-        "include": ["https://dl.google.com/developers/android/gsi/gsi-src.json"]
-      },
+         "name": "GSI+GMS ARM64",
+         "os_version": "13",
+         "cpu_abi": "arm64-v8a",
+         "details": "arm64-exp-TPB4.220624.008-8853201-0a12fcc9",
+         "spl": "2022-07-05",
+         "tos": "https://dl.google.com/developers/android/gsi/gsi-13-tos.txt",
+         "uri": "https://dl.google.com/developers/android/tm/images/gsi/gsi_gms_arm64-exp-TPB4.220624.008-8853201-0a12fcc9.zip"
+    },
    ]
 
 
