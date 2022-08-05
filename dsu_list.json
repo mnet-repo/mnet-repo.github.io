@@ -16,7 +16,7 @@
       },
       {
         "include": ["https://dl.google.com/developers/android/gsi/gsi-src.json"]
-      }
+      },
    ]
 
 
