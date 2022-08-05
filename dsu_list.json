@@ -12,7 +12,7 @@
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Download DSU Project",
-         "uri":"https://service-5pbou4lr-1257232761.sh.apigw.tencentcs.com/release/Ali/dsu.zip"
+         "uri":"https://drive.google.com/file/d/1pU561aXq02jLRK14BZE4VyKjHXAUa7xY/view?usp=drivesdk"
       },
       {
          "name": "GSI+GMS ARM64",
