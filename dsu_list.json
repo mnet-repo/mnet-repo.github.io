@@ -15,7 +15,7 @@
          "uri":"https://service-5pbou4lr-1257232761.sh.apigw.tencentcs.com/release/Ali/dsu.zip"
       },
       {
-        "include": ["https://.../gsi-release/gsi-src.json"]
+        "include": ["https://dl.google.com/developers/android/gsi/gsi-src.json"]
       }
    ]
 
