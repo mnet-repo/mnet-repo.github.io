@@ -12,25 +12,21 @@
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Download",
-         "uri":"https://dl.dropboxusercontent.com/s/oxf4nytnr18m872/dsu.zip"
+         "uri":"https://dl.dropboxusercontent.com/s/oxf4nytnr18m872/dsu.zip?dl=1"
       },
       {
          "name":"AOSP-SouravBappaBeta1 ",
          "os_version":"13",
          "cpu_abi": "arm64-v8a",
          "details":"Pixel-A13-NipponGSI",
-         "uri":"https://downloads.sourceforge.net/project/nippongsi/Pixel%20-%20Pixel-SouravBappaEdition-Beta1%20-%20S6NCGXKO33/Pixel-SouravBappaEdition-Beta1-AB-13-20220803-NipponGSI.img.gz?ts=gAAAAABi7P8leYLLpkgD_OWJwi8sNbPJJhfaBBYCAH3unSlH4ejy2nrIEfdpm1nJEvpBbWd9phiWrPgQkwEYCepdgcd2GzeqdA%3D%3D&use_mirror=cfhcable&r=https%3A%2F%2Fsourceforge.net%2Fp%2Fnippongsi%2Factivity%2F%3Fpage%3D0%26limit%3D100"
+         "uri":"https://downloads.sourceforge.net/project/nippongsi/Pixel-Pixel-SouravBappaEdition-Beta1-S6NCGXKO33/Pixel-SouravBappaEdition-Beta1-AB-13-20220803-NipponGSI.img.gz"
       },
       {
          "name": "GSI+GMS ARM64",
          "os_version": "13",
          "cpu_abi": "arm64-v8a",
          "details": "arm64-exp-TPB4.220624.008-8853201-0a12fcc9",
-         "spl": "2022-07-05",
-         "tos": "https://dl.google.com/developers/android/gsi/gsi-13-tos.txt",
          "uri": "https://dl.google.com/developers/android/tm/images/gsi/gsi_gms_arm64-exp-TPB4.220624.008-8853201-0a12fcc9.zip"
-    },
+      },
    ]
-
-
 }
