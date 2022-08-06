@@ -33,7 +33,7 @@
          "os_version":"13",
          "cpu_abi": "arm64-v8a",
          "details":"Pixel-A13-NipponGSI",
-         "uri":"file:///storage/emulated/0/sourav.gz"
+         "uri":"file:///storage/emulated/0/sourav.zip"
       },
       {
          "name": "GSI+GMS ARM64",
