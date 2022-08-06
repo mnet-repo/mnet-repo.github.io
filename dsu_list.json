@@ -4,28 +4,28 @@
      "name": "Dynamic System",
      "os_version": "12",
      "cpu_abi": "arm64-v8a",
-     "details": "Install dsu.zip from /sdcard",
+     "details": "dsu.zip",
      "uri": "file:///storage/emulated/0/dsu.zip"
     },
     {
      "name": "OOS 11",
      "os_version": "R",
      "cpu_abi": "arm64-v8a",
-     "details": "oos_11.zip, on /sdcard",
+     "details": "OnePlus8TOxygen_15.O.31_OTA_0310_all_2202182359_ca105dab55fd44e6",
      "uri": "file:///storage/emulated/0/oos_11.zip"
     },
     {
      "name": "CherishOS 3.9.5",
      "os_version": "12",
      "cpu_abi": "arm64-v8a",
-     "details": "CherishOS Port",
+     "details": "CherishOS Port(",
      "uri": "file:///storage/emulated/0/cherish.zip"
     },
     {
      "name": "riceDroid-4.0",
      "os_version": "12",
      "cpu_abi": "arm64-v8a",
-     "details": "riceDroid 4.0 Nippon",
+     "details": "riceDroid-4.0-AB-12.1-20220804-RMX1971-SGSI137",
      "uri": "file:///storage/emulated/0/rice-4.zip"
     },
     {
