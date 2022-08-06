@@ -18,8 +18,14 @@
      "name": "CherishOS 3.9.5",
      "os_version": "12",
      "cpu_abi": "arm64-v8a",
-     "details": "CherishOS Port(",
+     "details": "CherishOS Ported from Redmi 9T",
      "uri": "file:///storage/emulated/0/cherish.zip"
+    {
+     "name": "BlazeOS-1.3",
+     "os_version": "12",
+     "cpu_abi": "arm64-v8a",
+     "details": "BlazeOS-1.3-AB-12.1-20220717-r5x-SGSI137",
+     "uri": "file:///storage/emulated/0/blaze.zip"
     },
     {
      "name": "riceDroid-4.0",
@@ -29,10 +35,10 @@
      "uri": "file:///storage/emulated/0/rice-4.zip"
     },
     {
-     "name": "Pixel-13-Beta-SouravBappa",
+     "name": "Pixel-13-SouravBappa",
      "os_version": "13",
      "cpu_abi": "arm64-v8a",
-     "details": "NipponGSI",
+     "details": "Pixel-SouravBappaEdition-Beta1-AB-13-20220803-NipponGSI.img",
      "uri": "file:///storage/emulated/0/sourav.zip"
     },
     {
