@@ -8,18 +8,32 @@
          "uri":"file:///storage/emulated/0/dsu.zip"
       },
       {
+         "name":"OOS 11.13.13",
+         "os_version":"11",
+         "cpu_abi": "arm64-v8a",
+         "details":"oos_11.zip, on /sdcard",
+         "uri":"file:///storage/emulated/0/oos_11.zip"
+      },
+      {
          "name":"CherishOS 3.9.5 ",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Download",
-         "uri":"https://www.googleapis.com/drive/v3/files/1pU561aXq02jLRK14BZE4VyKjHXAUa7xY?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+         "uri":"file:///storage/emulated/0/cherish.zip"
+      },
+      {
+         "name":"OneUI ",
+         "os_version":"12",
+         "cpu_abi": "arm64-v8a",
+         "details":"Samsung OneUI",
+         "uri":"file:///storage/emulated/0/oneui.gz"
       },
       {
          "name":"AOSP-SouravBappaBeta1 ",
          "os_version":"13",
          "cpu_abi": "arm64-v8a",
          "details":"Pixel-A13-NipponGSI",
-         "uri":"https://downloads.sourceforge.net/project/nippongsi/Pixel-Pixel-SouravBappaEdition-Beta1-S6NCGXKO33/Pixel-SouravBappaEdition-Beta1-AB-13-20220803-NipponGSI.img.gz"
+         "uri":"file:///storage/emulated/0/sourav.gz"
       },
       {
          "name": "GSI+GMS ARM64",
