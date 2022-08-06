@@ -8,7 +8,7 @@
          "uri":"file:///storage/emulated/0/dsu.zip"
       },
       {
-         "name":"OOS 11.13.13",
+         "name":"OOS 11",
          "os_version":"11",
          "cpu_abi": "arm64-v8a",
          "details":"oos_11.zip, on /sdcard",
@@ -26,7 +26,7 @@
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Samsung OneUI",
-         "uri":"file:///storage/emulated/0/oneui.gz"
+         "uri":"file:///storage/emulated/0/oneui.zip"
       },
       {
          "name":"AOSP-SouravBappaBeta1 ",
