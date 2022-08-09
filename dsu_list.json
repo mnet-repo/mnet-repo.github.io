@@ -1,5 +1,11 @@
 {
-    "include": ["https://dl.google.com/.../gsi-src.JSON"]
+    "include": [
+        "https://dl.google.com/developers/android/rvc/images/gsi/gsi-dsc.json",
+        "https://dl.google.com/developers/android/sc/images/gsi/gsi-dsc.json",
+        "https://dl.google.com/developers/android/tm/images/gsi/gsi-dsc.json"
+    ]
+}
+{  
     "images":[
       {
          "name":"Local",
