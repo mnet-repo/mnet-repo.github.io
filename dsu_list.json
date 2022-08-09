@@ -6,9 +6,10 @@
          "cpu_abi": "arm64-v8a",
          "details":"Install /sdcard/dsu.zip",
          "uri":"file:///sdcard/dsu.zip"
-      },
+      }
     ]
-
+}
+{
     "include": [
         "https://dl.google.com/developers/android/tm/images/gsi/gsi-dsc.json"
     ]
