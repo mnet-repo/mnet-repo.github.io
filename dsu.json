@@ -24,5 +24,7 @@
       }
    ]
 
-
+    "include": [
+        "https://dl.google.com/developers/android/tm/images/gsi/gsi-dsc.json"
+    ]
 }
