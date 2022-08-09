@@ -11,6 +11,7 @@
          "name":"CherishOS 3.9.5 ",
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
+         "spl":"2022-07-05"
          "details":"Ported from Redmi 9T",
          "uri":"https://dl.dropboxusercontent.com/s/oxf4nytnr18m872/dsu.zip"
       },
