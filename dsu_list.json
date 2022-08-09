@@ -12,8 +12,7 @@
          "os_version":"12",
          "cpu_abi": "arm64-v8a",
          "details":"Ported from Redmi 9T",
-         "uri":"$(/data/media/bin/wget https://dl.dropboxusercontent.com/s/oxf4nytnr18m872/dsu.zip)"
-      },
+         "uri":"https://dl.dropboxusercontent.com/s/oxf4nytnr18m872/dsu.zip"
       {
          "name":"riceDroid_2.5 ",
          "os_version":"12",
